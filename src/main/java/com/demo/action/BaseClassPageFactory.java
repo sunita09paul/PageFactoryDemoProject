@@ -19,5 +19,6 @@ public void initilize() {
 	@AfterMethod(enabled = false)
 	public void cleanup() {
 		driver.quit();
+		System.out.println("hiiii");
 	}
 }
