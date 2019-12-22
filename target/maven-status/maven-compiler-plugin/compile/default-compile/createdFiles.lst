@@ -1,0 +1,4 @@
+com\demo\action\BaseClassPageFactory.class
+com\demo\action\loginAction.class
+com\demo\test\NewTest.class
+com\demo\locators\loginlocators.class
